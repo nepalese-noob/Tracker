@@ -89,9 +89,12 @@ listener() {
     fi
   done
   printf "Location: %s\n" """https://maps.google.com/maps?q="${Latitude}","${Longitude}""""
+  
   if [[ $arg1 == '-s' || $arg1 == '--silent' ]]; then
     :
   else
+    map="https://maps.google.com/maps?q=""${Latitude}","${Longitude}"
+    echo $map > maplink.txt
     xdg-open """https://maps.google.com/maps?q="${Latitude}","${Longitude}""""
   fi
   listener

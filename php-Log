@@ -1,13 +1,1 @@
-[Sat Apr 23 10:12:05 2022] PHP 8.1.2 Development Server (http://127.0.0.1:3333) started
-[Sat Apr 23 10:12:29 2022] 127.0.0.1:51574 Accepted
-[Sat Apr 23 10:12:29 2022] 127.0.0.1:51574 [302]: GET /
-[Sat Apr 23 10:12:29 2022] 127.0.0.1:51574 Closing
-[Sat Apr 23 10:12:30 2022] 127.0.0.1:51576 Accepted
-[Sat Apr 23 10:12:30 2022] 127.0.0.1:51576 [200]: GET /index2.html
-[Sat Apr 23 10:12:30 2022] 127.0.0.1:51576 Closing
-[Sat Apr 23 10:12:31 2022] 127.0.0.1:51578 Accepted
-[Sat Apr 23 10:12:31 2022] 127.0.0.1:51578 [404]: GET /favicon.ico - No such file or directory
-[Sat Apr 23 10:12:31 2022] 127.0.0.1:51578 Closing
-[Sat Apr 23 10:12:32 2022] 127.0.0.1:51582 Accepted
-[Sat Apr 23 10:12:32 2022] 127.0.0.1:51582 [302]: GET /get.php?latitude=26.6614815&longitude=86.2151878&altitude=16.799999237060547&platform=Linux%20armv8l&accuracy=61.80699920654297&speed=null&heading=null&hardware=8&memory=4&useragent=Mozilla/5.0%20(Linux;%20Android%2011;%20M2004J19C)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/100.0.4896.127%20Mobile%20Safari/537.36&height=851&width=393
-[Sat Apr 23 10:12:32 2022] 127.0.0.1:51582 Closing
+[Sat Apr 23 15:44:24 2022] PHP 8.1.2 Development Server (http://127.0.0.1:3333) started

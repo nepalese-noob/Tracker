@@ -6,18 +6,7 @@ Error: /proc must be mounted
   To mount /proc at boot you need an /etc/fstab line like:
       proc   /proc   proc    defaults
   In the meantime, run "mount proc /proc -t proc"
-[35mForwading on[31m::[37m https://transformation-kazakhstan-mouth-operates.trycloudflare.com[0;00m
-
-
-[32m        <<--<ListeniLoccatcat: /root/Desktop/Tracker/server/geolocate.txt: No such 
-
-[32m        <<--<Listening-->>[0;00m
-runuser: user rootrootrootrootrootrootrootrootroot does not exist or the user entry does not contain all the required fields
-**: 10:12:33.117: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[35mForwading on[31m::[37m https://scenic-panels-limitation-dryer.trycloudflare.com[0;00m
 
 
 [32m        <<--<Listening-->>[0;00m
-
-(x
-(xfce4-mime-helper:19922): dbind-WARNING **: 10:12:33.377: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was brokerunuser: user rootrootrootrootrootrootrootrootroot does not exist or the user entry does not contain all the required fields
-ds

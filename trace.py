@@ -1,7 +1,18 @@
 from tkinter import *
 import os
 import time
+def check():
+	file_size = os.path.getsize('/root/Desktop/Tracker/server/maplink.txt')
+	while True:
+		new_size=os.path.getsize('/root/Desktop/Tracker/server/maplink.txt')
+		if (new_size > file_size):
+			messagebox.showinfo("Location Found")
+			break
+	root3=Tk()
+	root3.mainloop()
+	
 def link():
+	os.system("""bash trace.sh> programLog.txt 2>&1 &""")
 	def copying(event):
 		button.config(text="copied link",font=('Times New Roman', 18,'bold'), bg="purple", fg="yellow", state="normal", activebackground="blue", activeforeground="red", cursor="hand2", relief=SUNKEN)
 		copier = Tk()
@@ -11,8 +22,7 @@ def link():
 		copier.clipboard_append(r.read())
 		copier.update()
 		copier.destroy()
-		
-	os.system("""bash trace.sh> programLog.txt 2>&1 &""")
+		 
 	file_size = os.path.getsize('/root/Desktop/Tracker/server/link.txt')
 	while True:
 		new_size=os.path.getsize('/root/Desktop/Tracker/server/link.txt')
@@ -25,4 +35,7 @@ root.title("Location Tracker")
 root.geometry("500x300")
 button= Button(root, text="generate link", font=('Times New Roman', 18,'bold'), bg="purple", fg="yellow", state="normal", activebackground="blue", activeforeground="red", cursor="hand2", relief=SUNKEN, command=link)
 button.grid(row=2, column=3)
+
+button2=Button(root, text="check result", font=('Times New Roman', 18,'bold'), bg="purple", fg="yellow", state="normal", activebackground="blue", activeforeground="red", cursor="hand2", relief=SUNKEN, command=check)
+button2.grid(row=3,column=3)
 root.mainloop()
