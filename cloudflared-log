@@ -1,0 +1,18 @@
+{"level":"info","time":"2022-04-23T10:12:10Z","message":"Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps"}
+{"level":"info","time":"2022-04-23T10:12:10Z","message":"Requesting new quick Tunnel on trycloudflare.com..."}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"|  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"|  https://transformation-kazakhstan-mouth-operates.trycloudflare.com                        |"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"Version 2022.4.1"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"GOOS: linux, GOVersion: go1.17.5, GoArch: arm64"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"Settings: map[logfile:/root/Desktop/Tracker/cloudflared-log protocol:quic url:127.0.0.1:3333]"}
+{"level":"info","autoupdateFreq":86400000,"time":"2022-04-23T10:12:14Z","message":"Autoupdate frequency is set"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"Generated Connector ID: 647f66f7-fee2-4013-a489-aafed04d7fd7"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"Initial protocol quic"}
+{"level":"info","time":"2022-04-23T10:12:14Z","message":"Starting metrics server on 127.0.0.1:34761/metrics"}
+{"level":"info","connIndex":0,"location":"SIN","time":"2022-04-23T10:12:15Z","message":"Connection de3d6abc-2c75-4e47-8ffb-7b62a6d59952 registered"}
+{"level":"info","connIndex":1,"location":"FRA","time":"2022-04-23T10:12:16Z","message":"Connection 45d52857-2601-4577-ab67-c3558ec4b814 registered"}
+{"level":"info","connIndex":2,"location":"SIN","time":"2022-04-23T10:12:16Z","message":"Connection 23145bba-5d1c-4d3c-8c3a-c20682c6305b registered"}
+{"level":"info","connIndex":3,"location":"FRA","time":"2022-04-23T10:12:18Z","message":"Connection e7843db7-9f98-414c-91e4-c23b9a9db735 registered"}

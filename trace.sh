@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 FILE=/root/Desktop/Target/server/link.txt
-if test -f "$FILE"; then
-    rm -rf $FILE
-fi
 CWD=`pwd`;script="$0"; arg1="$1"; arg2="$2" arg3="$3"; OS=`uname -o`; arch=`uname -m`
 S0="\033[30m"; B0="\033[40m"; S1="\033[31m"; B1="\033[41m"; S2="\033[32m"; B2="\033[42m"; S3="\033[33m"; B3="\033[43m"; S4="\033[34m"; B4="\033[44m"; S5="\033[35m"; B5="\033[45m"; S6="\033[36m"; B6="\033[46m"; S7="\033[37m"; B7="\033[47m"; R0="\033[0;00m"
 if [[ ${OS,,} == *'android'* ]]; then
