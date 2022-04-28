@@ -6,7 +6,7 @@ Error: /proc must be mounted
   To mount /proc at boot you need an /etc/fstab line like:
       proc   /proc   proc    defaults
   In the meantime, run "mount proc /proc -t proc"
-[35mForwading on[31m::[37m https://scenic-panels-limitation-dryer.trycloudflare.com[0;00m
+[35mForwading on[31m::[37m https://enclosure-supreme-spend-cylinder.trycloudflare.com[0;00m
 
 
 [32m        <<--<Listening-->>[0;00m

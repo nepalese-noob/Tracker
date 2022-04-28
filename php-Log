@@ -1,1 +1,325 @@
-[Sat Apr 23 15:44:24 2022] PHP 8.1.2 Development Server (http://127.0.0.1:3333) started
+[Thu Apr 28 15:45:44 2022] PHP 8.1.2 Development Server (http://127.0.0.1:3333) started
+[Thu Apr 28 15:46:02 2022] 127.0.0.1:50962 Accepted
+[Thu Apr 28 15:46:02 2022] 127.0.0.1:50962 [302]: GET /
+[Thu Apr 28 15:46:02 2022] 127.0.0.1:50962 Closing
+[Thu Apr 28 15:46:03 2022] 127.0.0.1:50964 Accepted
+[Thu Apr 28 15:46:03 2022] 127.0.0.1:50964 [200]: GET /index2.html
+[Thu Apr 28 15:46:03 2022] 127.0.0.1:50964 Closing
+[Thu Apr 28 15:46:20 2022] 127.0.0.1:50966 Accepted
+[Thu Apr 28 15:46:20 2022] 127.0.0.1:50966 [302]: GET /
+[Thu Apr 28 15:46:20 2022] 127.0.0.1:50966 Closing
+[Thu Apr 28 15:46:21 2022] 127.0.0.1:50968 Accepted
+[Thu Apr 28 15:46:21 2022] 127.0.0.1:50968 [200]: GET /index2.html
+[Thu Apr 28 15:46:21 2022] 127.0.0.1:50968 Closing
+[Thu Apr 28 15:46:21 2022] 127.0.0.1:50970 Accepted
+[Thu Apr 28 15:46:21 2022] 127.0.0.1:50970 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:46:21 2022] 127.0.0.1:50970 Closing
+[Thu Apr 28 15:46:35 2022] 127.0.0.1:50974 Accepted
+[Thu Apr 28 15:46:35 2022] 127.0.0.1:50974 [200]: GET /index2.html
+[Thu Apr 28 15:46:35 2022] 127.0.0.1:50974 Closing
+[Thu Apr 28 15:46:37 2022] 127.0.0.1:50976 Accepted
+[Thu Apr 28 15:46:37 2022] 127.0.0.1:50976 [200]: GET /index2.html
+[Thu Apr 28 15:46:37 2022] 127.0.0.1:50976 Closing
+[Thu Apr 28 15:46:39 2022] 127.0.0.1:50978 Accepted
+[Thu Apr 28 15:46:39 2022] 127.0.0.1:50978 [200]: GET /index2.html
+[Thu Apr 28 15:46:39 2022] 127.0.0.1:50978 Closing
+[Thu Apr 28 15:46:47 2022] 127.0.0.1:50980 Accepted
+[Thu Apr 28 15:46:47 2022] 127.0.0.1:50980 [200]: GET /index2.html
+[Thu Apr 28 15:46:47 2022] 127.0.0.1:50980 Closing
+[Thu Apr 28 15:46:50 2022] 127.0.0.1:50982 Accepted
+[Thu Apr 28 15:46:50 2022] 127.0.0.1:50982 [200]: GET /index2.html
+[Thu Apr 28 15:46:50 2022] 127.0.0.1:50982 Closing
+[Thu Apr 28 15:46:52 2022] 127.0.0.1:50984 Accepted
+[Thu Apr 28 15:46:52 2022] 127.0.0.1:50984 [200]: GET /index2.html
+[Thu Apr 28 15:46:52 2022] 127.0.0.1:50984 Closing
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50986 Accepted
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50986 [200]: GET /index2.html
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50986 Closing
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50988 Accepted
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50988 [200]: GET /index2.html
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50988 Closing
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50990 Accepted
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50990 [200]: GET /index2.html
+[Thu Apr 28 15:46:53 2022] 127.0.0.1:50990 Closing
+[Thu Apr 28 15:47:25 2022] 127.0.0.1:50992 Accepted
+[Thu Apr 28 15:47:25 2022] 127.0.0.1:50992 [302]: GET /error.php?error=3
+[Thu Apr 28 15:47:25 2022] 127.0.0.1:50992 Closing
+[Thu Apr 28 15:47:39 2022] 127.0.0.1:50994 Accepted
+[Thu Apr 28 15:47:39 2022] 127.0.0.1:50994 [200]: GET /index2.html
+[Thu Apr 28 15:47:39 2022] 127.0.0.1:50994 Closing
+[Thu Apr 28 15:47:40 2022] 127.0.0.1:50996 Accepted
+[Thu Apr 28 15:47:40 2022] 127.0.0.1:50996 [200]: GET /index2.html
+[Thu Apr 28 15:47:40 2022] 127.0.0.1:50996 Closing
+[Thu Apr 28 15:47:41 2022] 127.0.0.1:50998 Accepted
+[Thu Apr 28 15:47:41 2022] 127.0.0.1:50998 [200]: GET /index2.html
+[Thu Apr 28 15:47:41 2022] 127.0.0.1:50998 Closing
+[Thu Apr 28 15:47:41 2022] 127.0.0.1:51000 Accepted
+[Thu Apr 28 15:47:41 2022] 127.0.0.1:51000 [200]: GET /index2.html
+[Thu Apr 28 15:47:41 2022] 127.0.0.1:51000 Closing
+[Thu Apr 28 15:47:57 2022] 127.0.0.1:51002 Accepted
+[Thu Apr 28 15:47:57 2022] 127.0.0.1:51002 [302]: GET /
+[Thu Apr 28 15:47:57 2022] 127.0.0.1:51002 Closing
+[Thu Apr 28 15:47:58 2022] 127.0.0.1:51004 Accepted
+[Thu Apr 28 15:47:58 2022] 127.0.0.1:51004 [200]: GET /index2.html
+[Thu Apr 28 15:47:58 2022] 127.0.0.1:51004 Closing
+[Thu Apr 28 15:47:58 2022] 127.0.0.1:51006 Accepted
+[Thu Apr 28 15:47:58 2022] 127.0.0.1:51006 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:47:58 2022] 127.0.0.1:51006 Closing
+[Thu Apr 28 15:48:00 2022] 127.0.0.1:51008 Accepted
+[Thu Apr 28 15:48:00 2022] 127.0.0.1:51008 [200]: GET /index2.html
+[Thu Apr 28 15:48:00 2022] 127.0.0.1:51008 Closing
+[Thu Apr 28 15:48:02 2022] 127.0.0.1:51010 Accepted
+[Thu Apr 28 15:48:02 2022] 127.0.0.1:51010 [200]: GET /index2.html
+[Thu Apr 28 15:48:02 2022] 127.0.0.1:51010 Closing
+[Thu Apr 28 15:48:04 2022] 127.0.0.1:51012 Accepted
+[Thu Apr 28 15:48:04 2022] 127.0.0.1:51012 [200]: GET /index2.html
+[Thu Apr 28 15:48:04 2022] 127.0.0.1:51012 Closing
+[Thu Apr 28 15:48:05 2022] 127.0.0.1:51014 Accepted
+[Thu Apr 28 15:48:05 2022] 127.0.0.1:51014 [200]: GET /index2.html
+[Thu Apr 28 15:48:05 2022] 127.0.0.1:51014 Closing
+[Thu Apr 28 15:48:21 2022] 127.0.0.1:51016 Accepted
+[Thu Apr 28 15:48:21 2022] 127.0.0.1:51016 [302]: GET /
+[Thu Apr 28 15:48:21 2022] 127.0.0.1:51016 Closing
+[Thu Apr 28 15:48:22 2022] 127.0.0.1:51018 Accepted
+[Thu Apr 28 15:48:22 2022] 127.0.0.1:51018 [200]: GET /index2.html
+[Thu Apr 28 15:48:22 2022] 127.0.0.1:51018 Closing
+[Thu Apr 28 15:48:24 2022] 127.0.0.1:51020 Accepted
+[Thu Apr 28 15:48:24 2022] 127.0.0.1:51020 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:48:24 2022] 127.0.0.1:51020 Closing
+[Thu Apr 28 15:48:24 2022] 127.0.0.1:51022 Accepted
+[Thu Apr 28 15:48:24 2022] 127.0.0.1:51022 [302]: GET /error.php?error=3
+[Thu Apr 28 15:48:24 2022] 127.0.0.1:51022 Closing
+[Thu Apr 28 15:48:28 2022] 127.0.0.1:51024 Accepted
+[Thu Apr 28 15:48:28 2022] 127.0.0.1:51024 [200]: GET /index2.html
+[Thu Apr 28 15:48:28 2022] 127.0.0.1:51024 Closing
+[Thu Apr 28 15:48:36 2022] 127.0.0.1:51026 Accepted
+[Thu Apr 28 15:48:36 2022] 127.0.0.1:51026 [200]: GET /index2.html
+[Thu Apr 28 15:48:36 2022] 127.0.0.1:51026 Closing
+[Thu Apr 28 15:48:38 2022] 127.0.0.1:51028 Accepted
+[Thu Apr 28 15:48:38 2022] 127.0.0.1:51028 [302]: GET /error.php?error=3
+[Thu Apr 28 15:48:38 2022] 127.0.0.1:51028 Closing
+[Thu Apr 28 15:48:45 2022] 127.0.0.1:51030 Accepted
+[Thu Apr 28 15:48:45 2022] 127.0.0.1:51030 [200]: GET /index2.html
+[Thu Apr 28 15:48:45 2022] 127.0.0.1:51030 Closing
+[Thu Apr 28 15:48:46 2022] 127.0.0.1:51032 Accepted
+[Thu Apr 28 15:48:46 2022] 127.0.0.1:51032 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:48:46 2022] 127.0.0.1:51032 Closing
+[Thu Apr 28 15:48:49 2022] 127.0.0.1:51034 Accepted
+[Thu Apr 28 15:48:49 2022] 127.0.0.1:51034 [200]: GET /index2.html
+[Thu Apr 28 15:48:49 2022] 127.0.0.1:51034 Closing
+[Thu Apr 28 15:48:53 2022] 127.0.0.1:51060 Accepted
+[Thu Apr 28 15:48:53 2022] 127.0.0.1:51060 [200]: GET /index2.html
+[Thu Apr 28 15:48:53 2022] 127.0.0.1:51060 Closing
+[Thu Apr 28 15:48:53 2022] 127.0.0.1:51062 Accepted
+[Thu Apr 28 15:48:53 2022] 127.0.0.1:51062 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:48:53 2022] 127.0.0.1:51062 Closing
+[Thu Apr 28 15:48:54 2022] 127.0.0.1:51064 Accepted
+[Thu Apr 28 15:48:54 2022] 127.0.0.1:51064 [200]: GET /index2.html
+[Thu Apr 28 15:48:54 2022] 127.0.0.1:51064 Closing
+[Thu Apr 28 15:48:57 2022] 127.0.0.1:51066 Accepted
+[Thu Apr 28 15:48:57 2022] 127.0.0.1:51066 [200]: GET /index2.html
+[Thu Apr 28 15:48:57 2022] 127.0.0.1:51066 Closing
+[Thu Apr 28 15:48:59 2022] 127.0.0.1:51068 Accepted
+[Thu Apr 28 15:48:59 2022] 127.0.0.1:51068 [200]: GET /index2.html
+[Thu Apr 28 15:48:59 2022] 127.0.0.1:51068 Closing
+[Thu Apr 28 15:49:00 2022] 127.0.0.1:51070 Accepted
+[Thu Apr 28 15:49:01 2022] 127.0.0.1:51070 [302]: GET /error.php?error=3
+[Thu Apr 28 15:49:01 2022] 127.0.0.1:51070 Closing
+[Thu Apr 28 15:49:19 2022] 127.0.0.1:51084 Accepted
+[Thu Apr 28 15:49:19 2022] 127.0.0.1:51084 [200]: GET /index2.html
+[Thu Apr 28 15:49:19 2022] 127.0.0.1:51084 Closing
+[Thu Apr 28 15:50:10 2022] 127.0.0.1:51090 Accepted
+[Thu Apr 28 15:50:10 2022] 127.0.0.1:51090 [302]: GET /error.php?error=3
+[Thu Apr 28 15:50:10 2022] 127.0.0.1:51090 Closing
+[Thu Apr 28 15:50:11 2022] 127.0.0.1:51092 Accepted
+[Thu Apr 28 15:50:11 2022] 127.0.0.1:51092 [200]: GET /index2.html
+[Thu Apr 28 15:50:11 2022] 127.0.0.1:51092 Closing
+[Thu Apr 28 15:50:13 2022] 127.0.0.1:51094 Accepted
+[Thu Apr 28 15:50:13 2022] 127.0.0.1:51094 [302]: GET /error.php?error=3
+[Thu Apr 28 15:50:13 2022] 127.0.0.1:51094 Closing
+[Thu Apr 28 15:51:21 2022] 127.0.0.1:51100 Accepted
+[Thu Apr 28 15:51:21 2022] 127.0.0.1:51100 [302]: GET /
+[Thu Apr 28 15:51:21 2022] 127.0.0.1:51100 Closing
+[Thu Apr 28 15:51:21 2022] 127.0.0.1:51102 Accepted
+[Thu Apr 28 15:51:21 2022] 127.0.0.1:51102 [200]: GET /index2.html
+[Thu Apr 28 15:51:21 2022] 127.0.0.1:51102 Closing
+[Thu Apr 28 15:51:22 2022] 127.0.0.1:51104 Accepted
+[Thu Apr 28 15:51:22 2022] 127.0.0.1:51104 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:51:22 2022] 127.0.0.1:51104 Closing
+[Thu Apr 28 15:51:25 2022] 127.0.0.1:51112 Accepted
+[Thu Apr 28 15:51:25 2022] 127.0.0.1:51112 [200]: GET /index2.html
+[Thu Apr 28 15:51:25 2022] 127.0.0.1:51112 Closing
+[Thu Apr 28 15:51:56 2022] 127.0.0.1:51120 Accepted
+[Thu Apr 28 15:51:56 2022] 127.0.0.1:51120 [200]: GET /index2.html
+[Thu Apr 28 15:51:56 2022] 127.0.0.1:51120 Closing
+[Thu Apr 28 15:51:58 2022] 127.0.0.1:51122 Accepted
+[Thu Apr 28 15:51:58 2022] 127.0.0.1:51122 [302]: GET /
+[Thu Apr 28 15:51:58 2022] 127.0.0.1:51122 Closing
+[Thu Apr 28 15:51:58 2022] 127.0.0.1:51124 Accepted
+[Thu Apr 28 15:51:58 2022] 127.0.0.1:51124 [200]: GET /index2.html
+[Thu Apr 28 15:51:59 2022] 127.0.0.1:51124 Closing
+[Thu Apr 28 15:51:59 2022] 127.0.0.1:51126 Accepted
+[Thu Apr 28 15:51:59 2022] 127.0.0.1:51126 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:51:59 2022] 127.0.0.1:51126 Closing
+[Thu Apr 28 15:52:04 2022] 127.0.0.1:51128 Accepted
+[Thu Apr 28 15:52:04 2022] 127.0.0.1:51128 [200]: GET /index2.html
+[Thu Apr 28 15:52:04 2022] 127.0.0.1:51128 Closing
+[Thu Apr 28 15:52:10 2022] 127.0.0.1:51138 Accepted
+[Thu Apr 28 15:52:10 2022] 127.0.0.1:51138 [200]: GET /index2.html
+[Thu Apr 28 15:52:10 2022] 127.0.0.1:51138 Closing
+[Thu Apr 28 15:52:14 2022] 127.0.0.1:51144 Accepted
+[Thu Apr 28 15:52:14 2022] 127.0.0.1:51144 [200]: GET /index2.html
+[Thu Apr 28 15:52:14 2022] 127.0.0.1:51144 Closing
+[Thu Apr 28 15:52:15 2022] 127.0.0.1:51146 Accepted
+[Thu Apr 28 15:52:15 2022] 127.0.0.1:51146 [200]: GET /index2.html
+[Thu Apr 28 15:52:15 2022] 127.0.0.1:51146 Closing
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51148 Accepted
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51148 [200]: GET /index2.html
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51148 Closing
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51150 Accepted
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51150 [200]: GET /index2.html
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51150 Closing
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51152 Accepted
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51152 [200]: GET /index2.html
+[Thu Apr 28 15:52:16 2022] 127.0.0.1:51152 Closing
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51154 Accepted
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51154 [200]: GET /index2.html
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51154 Closing
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51156 Accepted
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51156 [200]: GET /index2.html
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51156 Closing
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51158 Accepted
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51158 [200]: GET /index2.html
+[Thu Apr 28 15:52:17 2022] 127.0.0.1:51158 Closing
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51160 Accepted
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51160 [200]: GET /index2.html
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51160 Closing
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51162 Accepted
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51162 [200]: GET /index2.html
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51162 Closing
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51164 Accepted
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51164 [200]: GET /index2.html
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51164 Closing
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51166 Accepted
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51166 [200]: GET /index2.html
+[Thu Apr 28 15:52:18 2022] 127.0.0.1:51166 Closing
+[Thu Apr 28 15:52:26 2022] 127.0.0.1:51172 Accepted
+[Thu Apr 28 15:52:26 2022] 127.0.0.1:51172 [200]: GET /index2.html
+[Thu Apr 28 15:52:26 2022] 127.0.0.1:51172 Closing
+[Thu Apr 28 15:52:27 2022] 127.0.0.1:51174 Accepted
+[Thu Apr 28 15:52:27 2022] 127.0.0.1:51174 [200]: GET /index2.html
+[Thu Apr 28 15:52:27 2022] 127.0.0.1:51174 Closing
+[Thu Apr 28 15:52:28 2022] 127.0.0.1:51176 Accepted
+[Thu Apr 28 15:52:28 2022] 127.0.0.1:51176 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:52:28 2022] 127.0.0.1:51176 Closing
+[Thu Apr 28 15:52:30 2022] 127.0.0.1:51178 Accepted
+[Thu Apr 28 15:52:30 2022] 127.0.0.1:51178 [200]: GET /index2.html
+[Thu Apr 28 15:52:30 2022] 127.0.0.1:51178 Closing
+[Thu Apr 28 15:52:31 2022] 127.0.0.1:51180 Accepted
+[Thu Apr 28 15:52:31 2022] 127.0.0.1:51180 [200]: GET /index2.html
+[Thu Apr 28 15:52:31 2022] 127.0.0.1:51180 Closing
+[Thu Apr 28 15:52:49 2022] 127.0.0.1:51182 Accepted
+[Thu Apr 28 15:52:49 2022] 127.0.0.1:51182 [200]: GET /index2.html
+[Thu Apr 28 15:52:49 2022] 127.0.0.1:51182 Closing
+[Thu Apr 28 15:52:57 2022] 127.0.0.1:51184 Accepted
+[Thu Apr 28 15:52:57 2022] 127.0.0.1:51184 [200]: GET /index2.html
+[Thu Apr 28 15:52:57 2022] 127.0.0.1:51184 Closing
+[Thu Apr 28 15:53:02 2022] 127.0.0.1:51186 Accepted
+[Thu Apr 28 15:53:02 2022] 127.0.0.1:51186 [200]: GET /index2.html
+[Thu Apr 28 15:53:02 2022] 127.0.0.1:51186 Closing
+[Thu Apr 28 15:53:20 2022] 127.0.0.1:51190 Accepted
+[Thu Apr 28 15:53:20 2022] 127.0.0.1:51190 [200]: GET /index2.html
+[Thu Apr 28 15:53:20 2022] 127.0.0.1:51190 Closing
+[Thu Apr 28 15:53:28 2022] 127.0.0.1:51206 Accepted
+[Thu Apr 28 15:53:28 2022] 127.0.0.1:51206 [200]: GET /index2.html
+[Thu Apr 28 15:53:28 2022] 127.0.0.1:51206 Closing
+[Thu Apr 28 15:53:32 2022] 127.0.0.1:51208 Accepted
+[Thu Apr 28 15:53:32 2022] 127.0.0.1:51208 [200]: GET /index2.html
+[Thu Apr 28 15:53:32 2022] 127.0.0.1:51208 Closing
+[Thu Apr 28 15:53:50 2022] 127.0.0.1:51210 Accepted
+[Thu Apr 28 15:53:50 2022] 127.0.0.1:51210 [200]: GET /index2.html
+[Thu Apr 28 15:53:50 2022] 127.0.0.1:51210 Closing
+[Thu Apr 28 15:53:59 2022] 127.0.0.1:51212 Accepted
+[Thu Apr 28 15:53:59 2022] 127.0.0.1:51212 [200]: GET /index2.html
+[Thu Apr 28 15:53:59 2022] 127.0.0.1:51212 Closing
+[Thu Apr 28 15:54:03 2022] 127.0.0.1:51214 Accepted
+[Thu Apr 28 15:54:03 2022] 127.0.0.1:51214 [200]: GET /index2.html
+[Thu Apr 28 15:54:03 2022] 127.0.0.1:51214 Closing
+[Thu Apr 28 15:54:21 2022] 127.0.0.1:51220 Accepted
+[Thu Apr 28 15:54:21 2022] 127.0.0.1:51220 [200]: GET /index2.html
+[Thu Apr 28 15:54:21 2022] 127.0.0.1:51220 Closing
+[Thu Apr 28 15:54:30 2022] 127.0.0.1:51222 Accepted
+[Thu Apr 28 15:54:30 2022] 127.0.0.1:51222 [200]: GET /index2.html
+[Thu Apr 28 15:54:30 2022] 127.0.0.1:51222 Closing
+[Thu Apr 28 15:54:34 2022] 127.0.0.1:51224 Accepted
+[Thu Apr 28 15:54:34 2022] 127.0.0.1:51224 [200]: GET /index2.html
+[Thu Apr 28 15:54:34 2022] 127.0.0.1:51224 Closing
+[Thu Apr 28 15:54:52 2022] 127.0.0.1:51232 Accepted
+[Thu Apr 28 15:54:52 2022] 127.0.0.1:51232 [200]: GET /index2.html
+[Thu Apr 28 15:54:52 2022] 127.0.0.1:51232 Closing
+[Thu Apr 28 15:55:01 2022] 127.0.0.1:51234 Accepted
+[Thu Apr 28 15:55:01 2022] 127.0.0.1:51234 [200]: GET /index2.html
+[Thu Apr 28 15:55:01 2022] 127.0.0.1:51234 Closing
+[Thu Apr 28 15:55:04 2022] 127.0.0.1:51236 Accepted
+[Thu Apr 28 15:55:04 2022] 127.0.0.1:51236 [200]: GET /index2.html
+[Thu Apr 28 15:55:04 2022] 127.0.0.1:51236 Closing
+[Thu Apr 28 15:55:23 2022] 127.0.0.1:51238 Accepted
+[Thu Apr 28 15:55:23 2022] 127.0.0.1:51238 [200]: GET /index2.html
+[Thu Apr 28 15:55:23 2022] 127.0.0.1:51238 Closing
+[Thu Apr 28 15:55:32 2022] 127.0.0.1:51240 Accepted
+[Thu Apr 28 15:55:32 2022] 127.0.0.1:51240 [200]: GET /index2.html
+[Thu Apr 28 15:55:32 2022] 127.0.0.1:51240 Closing
+[Thu Apr 28 15:55:32 2022] 127.0.0.1:51242 Accepted
+[Thu Apr 28 15:55:32 2022] 127.0.0.1:51242 [302]: GET /
+[Thu Apr 28 15:55:32 2022] 127.0.0.1:51242 Closing
+[Thu Apr 28 15:55:33 2022] 127.0.0.1:51244 Accepted
+[Thu Apr 28 15:55:33 2022] 127.0.0.1:51244 [200]: GET /index2.html
+[Thu Apr 28 15:55:33 2022] 127.0.0.1:51244 Closing
+[Thu Apr 28 15:55:34 2022] 127.0.0.1:51246 Accepted
+[Thu Apr 28 15:55:34 2022] 127.0.0.1:51246 [404]: GET /favicon.ico - No such file or directory
+[Thu Apr 28 15:55:34 2022] 127.0.0.1:51246 Closing
+[Thu Apr 28 15:55:36 2022] 127.0.0.1:51248 Accepted
+[Thu Apr 28 15:55:36 2022] 127.0.0.1:51248 [200]: GET /index2.html
+[Thu Apr 28 15:55:36 2022] 127.0.0.1:51248 Closing
+[Thu Apr 28 15:55:54 2022] 127.0.0.1:51252 Accepted
+[Thu Apr 28 15:55:54 2022] 127.0.0.1:51252 [200]: GET /index2.html
+[Thu Apr 28 15:55:54 2022] 127.0.0.1:51252 Closing
+[Thu Apr 28 15:56:03 2022] 127.0.0.1:51254 Accepted
+[Thu Apr 28 15:56:03 2022] 127.0.0.1:51254 [200]: GET /index2.html
+[Thu Apr 28 15:56:03 2022] 127.0.0.1:51254 Closing
+[Thu Apr 28 15:56:04 2022] 127.0.0.1:51256 Accepted
+[Thu Apr 28 15:56:04 2022] 127.0.0.1:51256 [200]: GET /index2.html
+[Thu Apr 28 15:56:04 2022] 127.0.0.1:51256 Closing
+[Thu Apr 28 15:56:06 2022] 127.0.0.1:51258 Accepted
+[Thu Apr 28 15:56:06 2022] 127.0.0.1:51258 [200]: GET /index2.html
+[Thu Apr 28 15:56:06 2022] 127.0.0.1:51258 Closing
+[Thu Apr 28 15:56:24 2022] 127.0.0.1:51260 Accepted
+[Thu Apr 28 15:56:24 2022] 127.0.0.1:51260 [200]: GET /index2.html
+[Thu Apr 28 15:56:24 2022] 127.0.0.1:51260 Closing
+[Thu Apr 28 15:56:33 2022] 127.0.0.1:51262 Accepted
+[Thu Apr 28 15:56:33 2022] 127.0.0.1:51262 [200]: GET /index2.html
+[Thu Apr 28 15:56:33 2022] 127.0.0.1:51262 Closing
+[Thu Apr 28 15:56:35 2022] 127.0.0.1:51264 Accepted
+[Thu Apr 28 15:56:35 2022] 127.0.0.1:51264 [200]: GET /index2.html
+[Thu Apr 28 15:56:35 2022] 127.0.0.1:51264 Closing
+[Thu Apr 28 15:56:37 2022] 127.0.0.1:51266 Accepted
+[Thu Apr 28 15:56:37 2022] 127.0.0.1:51266 [200]: GET /index2.html
+[Thu Apr 28 15:56:37 2022] 127.0.0.1:51266 Closing
+[Thu Apr 28 15:56:55 2022] 127.0.0.1:51282 Accepted
+[Thu Apr 28 15:56:55 2022] 127.0.0.1:51282 [200]: GET /index2.html
+[Thu Apr 28 15:56:55 2022] 127.0.0.1:51282 Closing
+[Thu Apr 28 15:57:04 2022] 127.0.0.1:51288 Accepted
+[Thu Apr 28 15:57:04 2022] 127.0.0.1:51288 [200]: GET /index2.html
+[Thu Apr 28 15:57:04 2022] 127.0.0.1:51288 Closing
+[Thu Apr 28 15:57:05 2022] 127.0.0.1:51290 Accepted
+[Thu Apr 28 15:57:05 2022] 127.0.0.1:51290 [200]: GET /index2.html
+[Thu Apr 28 15:57:05 2022] 127.0.0.1:51290 Closing
+[Thu Apr 28 15:57:08 2022] 127.0.0.1:51292 Accepted
+[Thu Apr 28 15:57:08 2022] 127.0.0.1:51292 [200]: GET /index2.html
+[Thu Apr 28 15:57:08 2022] 127.0.0.1:51292 Closing
+[Thu Apr 28 15:57:10 2022] 127.0.0.1:51294 Accepted
+[Thu Apr 28 15:57:10 2022] 127.0.0.1:51294 [302]: GET /
+[Thu Apr 28 15:57:10 2022] 127.0.0.1:51294 Closing
+[Thu Apr 28 15:57:10 2022] 127.0.0.1:51296 Accepted
+[Thu Apr 28 15:57:10 2022] 127.0.0.1:51296 [200]: GET /index2.html
+[Thu Apr 28 15:57:10 2022] 127.0.0.1:51296 Closing
